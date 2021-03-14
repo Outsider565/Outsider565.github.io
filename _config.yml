@@ -9,8 +9,10 @@ name: Outsider's Blog
 description: A CS student from Fudan University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/Outsider565/outsider565.github.io/master/images/logo.png
+avatar: /../images/logo.jpg
 
+# header Image
+favicon : '/images/code.png'
 #
 # Flags below are optional
 #
@@ -18,10 +20,10 @@ avatar: https://raw.githubusercontent.com/Outsider565/outsider565.github.io/mast
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: wangsw5653@gmail.com & wangsw5653@foxmail.com
+  email: wangsw5653@foxmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: outsider565
   instagram:
   linkedin:
   pinterest:

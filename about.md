@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一些关于我的信息
 
-### More Information
+- 在复旦CS读大二
 
-A place to include any other types of information that you'd like to include about yourself.
+- 目前关注目标检测领域(Object Detection)
 
-### Contact me
+- 除了代码还喜欢摄影和猫
 
-[email@domain.com](mailto:email@domain.com)
+- 有任何想法欢迎你找我讨论
+
+### 如何联系我
+
+- 主邮箱
+
+[wangsw5653@gmail.com](mailto:wangsw5653@gmail.com)
+
+- 如果你在国内不确定是否能发送到Gmail邮箱
+
+[wangsw5653@foxmail.com](mailto:wangsw5653@foxmail.com)
